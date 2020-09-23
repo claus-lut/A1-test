@@ -1,2 +1,2 @@
-# A1-test
-Created with CodeSandbox
+Assignment 1 for LUT course on Web Programming
+TicTacToe without styles
